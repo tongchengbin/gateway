@@ -1,4 +1,4 @@
-module github.com/jackpal/gateway
+module github.com/tongchengbin/gateway
 
 go 1.23.0
 
